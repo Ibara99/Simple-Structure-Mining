@@ -1,6 +1,9 @@
 # Simple-Structure-Mining
 (example) Contoh Analisa Struktur Web menggunakan page rank. 
 
+# Notice
+Agar program tidak menampilkan proses Crawling, ubah nilai variabel `tampilkan` pada baris 94 menjadi `False`
+
 # referensi:
 
 * https://dzone.com/refcardz/data-mining-discovering-and?chapter=8
